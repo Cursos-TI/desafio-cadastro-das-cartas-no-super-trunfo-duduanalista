@@ -21,7 +21,7 @@ int *quantidade) {
         return;
     }
 
-    Carta nova;
+    Carta nova
     printf("Digite o código da cidade(Ex: A01, B02): ");
     scanf("%s, nova.codigo");
 
